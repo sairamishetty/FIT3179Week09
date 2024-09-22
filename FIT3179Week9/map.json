@@ -34,7 +34,7 @@
           "lookup": "properties.NAME",
           "from": {
             "data": {
-              "url": "https://raw.githubusercontent.com/sairamishetty/FIT3179A2/main/worldData.csv"
+              "url": "https://raw.githubusercontent.com/sairamishetty/FIT3179Week09/refs/heads/main/FIT3179Week9/worldData.csv"
             },
             "key": "Country",
             "fields": ["Electricity Production From Oil, Gas and Coal"]
@@ -52,7 +52,7 @@
             "range": ["#fdbe85", "#fd8d3c", "#e6550d", "#a63603"]
           },
           "legend": {
-            "title": "Non-Renewable Electricity Production (% of Total)"
+            "title": "Non-Renew (%)"
           }
         },
         "tooltip": [
